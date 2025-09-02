@@ -1,6 +1,9 @@
 # UX Portfolio
 
-About me...
+
+![me](https://github.com/user-attachments/assets/f2342d5b-d0f5-4d27-a143-247563a55bb3)
+
+I'm Sergio Martinez, I'm a computer Science student at CSU Chico.
 
 ## UX Team Project
 
@@ -8,4 +11,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Sergio's Journal](journal/)
