@@ -1,4 +1,4 @@
-# Sergio's Journal
+# WREC
 
 As a Chico State student I use the WREC app in order to check when the gym is open, what events are going on, and most importantly, to generate the bar code that is needed to enter into the gym. 
 
