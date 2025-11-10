@@ -11,4 +11,4 @@ Coming soon.
 
 ## UX Journal
 
-[Sergio's Journal](journal/)
+[WREC](journal/)
