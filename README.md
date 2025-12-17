@@ -7,7 +7,7 @@ I'm Sergio Martinez, I'm a computer Science student at CSU Chico.
 
 ## UX Team Project
 
-Coming soon.
+[FoodExchange](project/)
 
 ## UX Journal
 
